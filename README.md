@@ -1,2 +1,2 @@
 # quorum4j
-quorum implemented by java
+quorum NRW implemented by java
